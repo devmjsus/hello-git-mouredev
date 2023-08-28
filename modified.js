@@ -5,3 +5,4 @@ let humans = {
 };
 
 console.log(humans);
+console.log("message")
